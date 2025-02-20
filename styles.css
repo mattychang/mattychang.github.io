@@ -6,13 +6,7 @@ body {
 }
 
 /* Define classes */
-.justify-text {
-    text-align: justify;
-}
 
-.center-text {
-    text-align: center;
-}
 
 
 /* Heading styles */
@@ -31,6 +25,7 @@ h2 {
 p {
     margin: 10px 0px 10px 0px;
     font-size: 16px;
+    text-align: justify;
 }
 
 /* Link styles */
