@@ -31,6 +31,7 @@ h1 {
     max-width: 800px;  /* Limits width to prevent stretching */
     margin: 0 auto;  /* Centers content horizontally */
     padding: 20px;
+    flex: 1;
 }
 
 .main-content h2 {
