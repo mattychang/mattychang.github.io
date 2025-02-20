@@ -1,6 +1,6 @@
 /* General styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Times New Roman", serif;
     line-height: 1.6;
     margin: 20px;
 }
@@ -12,7 +12,7 @@ body {
 /* Heading styles */
 h1 {
     text-align: center;
-    font-size: 24px;
+    font-size: 28px;
 }
 
 h2 {
