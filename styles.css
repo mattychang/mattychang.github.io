@@ -23,9 +23,9 @@ body {
 
 /* Main content styles */
 .main-content {
-    margin-left: 270px; /* Leaves space for the fixed sidebar */
+    max-width: 800px;  /* Limits width to prevent stretching */
+    margin: 0 auto;  /* Centers content horizontally */
     padding: 20px;
-    max-width: 800px;
 }
 
 .main-content h1 {
