@@ -110,13 +110,11 @@ a:hover {
 
 
 .profile-pic {
-    width: 150px; /* Adjust size as needed */
-    height: 150px;
-    border-radius: 50%; /* Makes it a circle */
+    width: 300px; /* Adjust size as needed */
+    height: 300px;
     object-fit: cover;
     display: block;
     margin: 20px auto;
-    border: 3px solid #3498db; /* Optional border */
     flex-shrink: 0;
 }
 
