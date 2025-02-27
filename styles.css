@@ -112,9 +112,8 @@ a:hover {
 .profile-pic {
     width: 300px; /* Adjust size as needed */
     height: 300px;
-    object-fit: cover;
-    display: block;
-    margin: 20px auto;
+    float: left;
+    margin: 0 20px 10px 0;
     flex-shrink: 0;
 }
 
