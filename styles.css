@@ -117,5 +117,9 @@ a:hover {
     flex-shrink: 0;
 }
 
+.pubs {
+    max-width: 100%;
+    height: auto;
+}
 
 
