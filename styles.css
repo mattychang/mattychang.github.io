@@ -117,11 +117,5 @@ a:hover {
     flex-shrink: 0;
 }
 
-.about-me {
-    display: flex;
-    align-items: center;
-    gap: 20px; /* Space between image and text */
-}
-
 
 
