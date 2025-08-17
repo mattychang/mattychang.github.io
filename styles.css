@@ -126,6 +126,16 @@ a:hover {
     flex-shrink: 0;
 } 
 
+.landscape-pic {
+  width: 400px;   /* wider than tall */
+  height: 300px;  /* shorter */
+  float: left;
+  margin: 0 20px 10px 0;
+  flex-shrink: 0;
+}
+
+
+
 .pubs {
     max-width: 100%;
     height: auto;
